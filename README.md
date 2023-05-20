@@ -17,7 +17,7 @@ Relevant ADRs:
 
 ## Contributing
 
-Pages are written in Markdown and can be found under [`docs/`](/docs).
+Pages are written in Markdown and can be located under [`docs/`](/docs).
 
 Check out [the Contributing page](https://experimenter.info/contributing) for helpful Docusaurus and GitHub UI tips to learn how to create a new document, edit an existing one, and/or how to adjust the sidebar. You don't have to check out the repository locally to contribute.
 
